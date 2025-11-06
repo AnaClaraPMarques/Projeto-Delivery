@@ -5,3 +5,4 @@ O app Delivery precisará de funcionalidades de:
 - LOCALIZAÇÃO (GPS)
 - RASTREAMENTO 
 - PAGAMENTO
+- DADOS BANCÁRIOS
