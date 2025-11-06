@@ -1,0 +1,6 @@
+O app Delivery precisará de funcionalidades de: 
+- CADASTRO
+- LOGIN
+- ALGORITMO
+- LOCALIZAÇÃO (GPS)
+- RASTREAMENTO 
